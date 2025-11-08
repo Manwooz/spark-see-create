@@ -1,0 +1,25 @@
+{
+  "choice_chambers": [
+    {
+      "id": "c1",
+      "label_a": "Comfort",
+      "label_b": "Authenticity",
+      "a_change": 10,
+      "b_change": -15
+    },
+    {
+      "id": "c2",
+      "label_a": "Obligation",
+      "label_b": "Freedom",
+      "a_change": 8,
+      "b_change": -12
+    },
+    {
+      "id": "c3",
+      "label_a": "Routine",
+      "label_b": "Risk",
+      "a_change": 12,
+      "b_change": -20
+    }
+  ]
+}

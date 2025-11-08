@@ -57,6 +57,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "binding-glow": "hsl(var(--binding-glow))",
+        "clarity-blue": "hsl(var(--clarity-blue))",
+        "thought-text": "hsl(var(--thought-text))",
+        "journal-bg": "hsl(var(--journal-bg))",
+        "entity-shadow": "hsl(var(--entity-shadow))",
       },
       borderRadius: {
         lg: "var(--radius)",

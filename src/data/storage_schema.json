@@ -1,0 +1,22 @@
+{
+  "key": "mindspace_save_v1",
+  "structure": {
+    "playerPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "bindingScore": 0,
+    "clarity": 100,
+    "choicesHistory": [],
+    "journals": [
+      {
+        "id": "j0",
+        "text": "You start in a corridor of grey light.",
+        "timestamp": "2025-11-08T00:00:00Z"
+      }
+    ],
+    "worldSeed": "",
+    "lastSafeChoiceLocation": null
+  }
+}

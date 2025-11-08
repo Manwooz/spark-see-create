@@ -1,0 +1,26 @@
+{
+  "intrusive_thoughts": {
+    "low_binding": [
+      "Maybe it's nothing. Maybe you're fine.",
+      "Keep going; it's what you always do."
+    ],
+    "mid_binding": [
+      "Who chose this for you?",
+      "Is this what you wanted?"
+    ],
+    "high_binding": [
+      "You welded these chains yourself.",
+      "Comfort is a darker kind of prison."
+    ]
+  },
+  "journal_prompts": {
+    "seed_questions": [
+      "What did I avoid today?",
+      "What truth feels too heavy to say out loud?"
+    ],
+    "auto_entries": [
+      "You walked the corridor again. It looked the same, but you felt different.",
+      "A mirror showed a person you don't know. You wrote their name down anyway."
+    ]
+  }
+}
